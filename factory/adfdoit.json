@@ -1,0 +1,9 @@
+{
+	"name": "adfdoit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7e2e8378-0590-4328-a9aa-ad4720acb6bb",
+		"tenantId": "23e5c8a3-3132-4299-b9ba-f101786f8337"
+	}
+}
